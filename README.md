@@ -6,7 +6,11 @@ Programming Language: Python Library: OpenCV​
 Libraries to install:
 
 pip install opencv-python
+
+
 pip install numpy
+
+
 pip install -U scikit-learn
 
 
