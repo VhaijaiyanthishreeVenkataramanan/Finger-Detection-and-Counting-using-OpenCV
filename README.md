@@ -3,5 +3,11 @@ A system which detects a human hand, segments the hand, counts the number of fin
 
 Programming Language: Python Library: OpenCV​
 
+Libraries to install:
+
+pip install opencv-python
+pip install numpy
+pip install -U scikit-learn
+
 
 ![](Images/Finger_Detection.png)
